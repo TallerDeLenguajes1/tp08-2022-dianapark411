@@ -4,7 +4,7 @@
 Console.WriteLine("Ingrese la ruta de la carpeta");
 string ruta = Console.ReadLine();
 //ruta = Path.GetFullPath(ruta);
-Console.WriteLine("Ruta: {0}", ruta);
+//Console.WriteLine("Ruta: {0}", ruta);
 
 List<string> archivos = new List<string>();
 
